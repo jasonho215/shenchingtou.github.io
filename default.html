@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    {%- include head.html -%}
+    <!STYLESHEET Buy me a coffee button>
+<style>.bmc-button img{height: 34px !important;width: 35px !important;margin-bottom: 1px !important;box-shadow: none !important;border: none !important;vertical-align: middle !important;}.bmc-button{padding: 7px 10px 7px 10px !important;line-height: 35px !important;height:51px !important;min-width:217px !important;text-decoration: none !important;display:inline-flex !important;color:#FFFFFF !important;background-color:#FF813F !important;border-radius: 5px !important;border: 1px solid transparent !important;padding: 7px 10px 7px 10px !important;font-size: 22px !important;letter-spacing: 0.6px !important;box-shadow: 0px 1px 2px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 1px 2px 2px rgba(190, 190, 190, 0.5) !important;margin: 0 auto !important;font-family:'Cookie', cursive !important;-webkit-box-sizing: border-box !important;box-sizing: border-box !important;-o-transition: 0.3s all linear !important;-webkit-transition: 0.3s all linear !important;-moz-transition: 0.3s all linear !important;-ms-transition: 0.3s all linear !important;transition: 0.3s all linear !important;}.bmc-button:hover, .bmc-button:active, .bmc-button:focus {-webkit-box-shadow: 0px 1px 2px 2px rgba(190, 190, 190, 0.5) !important;text-decoration: none !important;box-shadow: 0px 1px 2px 2px rgba(190, 190, 190, 0.5) !important;opacity: 0.85 !important;color:#FFFFFF !important;}</style>
+
+  </head>
+  <body>
+    <main class="container">
+      <section class="about">
+        <a href="/"><img src="{{ "/assets/portfolio.jpg" | relative_url }}" alt="{{ site.plainwhite.name }}"></a>
+        <h2 id="title">
+          <a href="/">{{ site.plainwhite.name }}</a>
+        </h2>
+        <p class="tagline">{{ site.plainwhite.tagline }}</p>
+        <ul class="social">
+          {%- if site.plainwhite.social_links.github -%}
+            <a href="https://github.com/{{ site.plainwhite.social_links.github }}">
+              <li>
+                <i class="icon-github-circled"></i>
+              </li>
+            </a>
+          {%- endif -%}
+          {%- if site.plainwhite.social_links.linkedIn -%}
+            <a href="https://www.linkedin.com/{{ site.plainwhite.social_links.linkedIn }}">
+              <li>
+                <i class="icon-linkedin-squared"></i>
+              </li>
+            </a>
+          {%- endif -%}
+          {%- if site.plainwhite.social_links.twitter -%}
+            <a href="https://twitter.com/{{ site.plainwhite.social_links.twitter }}">
+              <li>
+                <i class="icon-twitter-squared"></i>
+              </li>
+            </a>
+          {%- endif -%}
+        </ul>
+
+        {%- if site.plainwhite.navigation -%}
+          <nav class="navigation">
+            <ul>
+              {% for link in site.plainwhite.navigation %}
+                <li>
+                  <a href="{{ link.url }}">{{ link.title }}</a>
+                </li>
+              {% endfor %}
+            </ul>
+		<ul>
+            
+                <li>
+                  <! Buy me a coffee button>
+<link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet">
+
+<! Buy me a coffee button>
+<a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/athena">
+    <img src="https://cdn.buymeacoffee.com/buttons/bmc-new-btn-logo.svg" alt="Buy me a coffee">
+    <span style="margin-left:15px;font-size:28px !important;">Buy me a coffee</span>
+</a>
+                </li>
+
+            </ul>
+          </nav>
+        {%- endif -%}
+
+        <p>&copy;
+          {{ "now" | date: "%Y" }}</p>
+      </section>
+      <section class="content">
+        {{ content }}
+      </section>
+    </main>
+    {%- if site.plainwhite.analytics_id -%}
+      <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.plainwhite.analytics_id }}"></script>
+      <script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag() { dataLayer.push(arguments); }
+		gtag('js', new Date());
+
+		gtag('config', '{{ site.plainwhite.analytics_id }}');
+	</script>
+    {%- endif -%}
+  </body>
+</html>
