@@ -5,6 +5,10 @@ date: 2020-03-26 21:03:36 +0530
 categories: Ecommerce
 ---
 
+In the wake of the recent tsunami of events, businesses in Berlin have been adapting to keep cashflow going. Local restaurants are taking to IG to share their latest statuses. Albatross Bakery got on Hackthecity Berlin's Slack channel to ask for help in creating neighbourhood distribution hubs for restaurants and cafes. Some businesses are finally finding the time to set up their online storefronts.
+
+Here are some tips from someone who has worked with Shopify and ecommerce businesses. 
+
 Who is this for:
 - Restaurants & Cafes
 - Coffee roasters & groceries
