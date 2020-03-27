@@ -10,6 +10,7 @@ The #WirVsVirus hackathon was reportedly organised in 4 days, and by the time it
 It is an event that demonstrates the creative forces of the hivemind is already emerging to meet the havoc that a mindless virus can cause.
 
 ## Event Overview
+The #WirVsVirus event stats are:
 43,000 registrations
 1900 godmothers for challenges 
 2900 mentors
@@ -19,7 +20,11 @@ It is an event that demonstrates the creative forces of the hivemind is already 
 100 projects from the ministries
 464,866 slack messages (and counting...)
 
-### Pre-Event
+Supporting organisations who offered their infrastructure included AWS, IBM, Microsoft, CERN, AuthO, RedHat, and many other heavyweights in the tech industry. 
+
+**Pre-event**
+
+The Germans will 
 
 ### During the event
 
