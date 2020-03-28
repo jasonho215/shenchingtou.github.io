@@ -61,5 +61,20 @@ plainwhite:
 theme: plainwhite
 
 plugins:
+  - jekyll-sitemap
   - jekyll-seo-tag
-  - jekyll-feed
+  - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
+  - jekyll-paginate
+
+include: ['_pages']
+
+paginate: 6
+paginate_path: /page:num/
+
+# Exclude these files from your production _site
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - CNAME
