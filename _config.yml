@@ -18,6 +18,8 @@ plainwhite:
   navigation:
     - title: Home
       url: "/index"
+    - title: Categories
+      url: "/categories"
     - title: About
       url: "/about"
     - title: Projects
