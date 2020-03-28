@@ -1,6 +1,17 @@
+//
+// IMPORTS
+//
+
 @import "ext/fonts";
 @import "ext/normalize";
 @import "syntax";
+
+/**************/
+/* BASE RULES */
+/**************/
+
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+
 
 $linkColor: #0a59b0;
 $mobileW: 768px;
