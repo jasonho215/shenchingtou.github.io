@@ -5,7 +5,9 @@ date:   2020-03-27 11:03:36 +0100
 ---
 Hi there,
 
-I'm Athena. I am a content marketer. The best way to understand what I like, how I work, and what skills I have is to look at the tools I use. Here is an opinionated list:
+I'm Athena. I am a content marketer. I copy and paste code to render a collage of my notes online.
+
+I express myself best when talking about products. You can psychoanalyse my choice of tools:
 
 
 Favourite writing tools:
