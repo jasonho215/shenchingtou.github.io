@@ -11,7 +11,7 @@ It's hard not to use Telegram. It juggles convenience (it's web app), security (
 
 If you stop reading, the two important things to know about Telegram are:
  - **chats are not default end-to-end encryption** (ensuring privacy between tow parties) by default and to have this you must start a **Secret chat** with someone.
- - **Telegram groups expose contacts** whereas a Telegram Channel does not
+ - **Telegram groups expose contacts** whereas a Telegram channel does not.
 
 ## Why does this matter?
 Telegram has emerged as a preferred app for activists around the world, from Hong Kong through to the Middle East, and even recently in China for people evading the government's Covid-19 censorship.
@@ -46,7 +46,8 @@ To use a Telegram channel for a community, think of the channel host as the mode
 
 This method may be a bit more burdensome for an individual, but it strikes a balance between community and privacy.
 
----
+
+
 In the end, I joined the Telegram groups for my neighbourhoods because I am in Germany and generally trust that the people who have set them up have done so for community benefit. In addition, there's no particular reason for the German government to use these groups to identify people. However, I would urge that creators for groups in the future consider protecting the privacy of all participants as a default and create a channel.
 
 ## Corona community links for Germany
@@ -55,7 +56,7 @@ The list of links for Covid-19 Germany community groups are mostly on Telegram, 
 https://listling.org/lists/pwfjfkpjmesjjinm/solidarische-nachbarschaftshilfe
 
 Here are additional support groups on Telegram:
- Berlinweite Gruppe: https://t.me/joinchat/IafppEdTmHTRObqU4-VTeg
+ Berlinweite Gruppe: [https://t.me/joinchat/IafppEdTmHTRObqU4-VTeg](https://t.me/joinchat/IafppEdTmHTRObqU4-VTeg)
  Berlin support groups:
  - in english: https://t.me/joinchat/KcTop0oBzgpagpUfL5AH8w
  - in arabic: [@CovidBerlinArabs](https://web.telegram.org/#/im?p=@CovidBerlinArabs)
@@ -68,6 +69,8 @@ Supermarkt-Hygieneschutz: [@Supermarktkontakte](https://web.telegram.org/#/im?p=
 - Literaturbeschaffung: [@literaturbeschaffungcovid](https://web.telegram.org/#/im?p=@literaturbeschaffungcovid)
 - Robert-Koch-Institut: [@robertkochinstitut](https://web.telegram.org/#/im?p=@robertkochinstitut)
 - Spread Good News: [@spreadGoodNews](https://web.telegram.org/#/im?p=@spreadGoodNews)
+
+---
 
 ## Further Readings
 **[Secure Messaging Apps](www.securemessagingapps.com):** I suggest scanning the top row of the table to know which apps are actually secure, and the far left column to learn about what security features you should think about. Not all of them, such as making code opensource, are obvious to a consumer.
