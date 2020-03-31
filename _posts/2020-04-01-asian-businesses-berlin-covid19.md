@@ -14,7 +14,7 @@ Whether you are new to Berlin or have grown up in the city, if you identify as A
 If you have someone to add, please contact Athena on [Twitter](http://www.twitter.com/@shenchingtou) or [Instagram](https://instagram.com/thecupandtheroad). Thanks!
 
 ## Food
-![My helpful screenshot](/assets/blog-2020/chinese_veg_stirfry.jpg | height=100)
+<img src="/assets/blog-2020/chinese_veg_stirfry.jpg" alt="Chinese vegetarian stirfry" height="100">
 **Please consider supporting your neighbourhood grocery stores and Asian corner stores.**
 
 Like many other businesses in Berlin, a number of restaurants or catering businesses are offering delivery. Please consider ordering from these places so they can survive and re-open after Covid-19 passes. 
