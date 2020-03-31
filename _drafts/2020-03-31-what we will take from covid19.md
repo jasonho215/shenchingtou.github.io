@@ -1,19 +1,29 @@
 ---
 layout: post
-title: Apps from China and HK
-date: 2020-03-29 21:03:36 +0530
+title: What we will keep from Covid19
+date: 2020-03-30 21:03:36 +0530
 categories: [Covid19 diary]
 ---
 
-Despite the troubling numbers from China's outbreak, they were not as bad as people think. In China, over 3/4 of cases were in Hubei Province, where Wuhan city is. Within Hubei, 50,000 cases were from Wuhan City, making up over 60% of cases in a country.
+*Written from the vantage of someone who's fortunate enough to have savings and a place to stay through the Covid19 times.**
 
-The scale is easier to see stacked together:
+Hong Kong is a city of labels and fences. 
 
-- 1,300,000,000 people in China
-- 50,000 in Wuhan city alone
+Hong Kong is a city of masks. Even before June 2019, you probably wouldn't walk down a block without crossing paths with someone wearing one. The masks appeared around the same time that live hens disappeared from the city's beloved wet markets. The turning point was 2003 -- SARS followed by the Avian flu. 
 
-Even if official numbers are under represented, no major city in China even crossed 2000 cases. When you line up the numbers, it's easy to see that the percentage of people *infected* were minimal, though absolutely everyone was *affected*, and remains affected. [Aside: [The Economist has a great episode](https://play.acast.com/s/theintelligencepodcast/c8f11d9a-1071-4307-b390-20a747796a61) that covers the threat Covid-19 had on planting season, agriculture, and therefore potential food shortages.]
+Someone had asked me what the learnings from Asia were. We Asians are tired of explaining. We are tired of being noticed for the colour of our hair, and not the things we say.
 
-I've had people who have asked me what China and Hong Kong have done for Covid-19.
+I am tired of sending mask diagrams outlining what density and models are needed, and what is actually hygenic to use (hint: most DIY ones aren't).
 
-- hktv mall
+---
+
+As we lament all the things we miss about our daily lives. As we try to fill our days with games and other distractions, we're missing a golden opportunity. The one time to pause and reflect on the society that has gotten us here, and the society that is now our reality. What do we want to take from this reality into the future? Don't tell me nothing. The air quality, for one, is an improvement from the norm.
+
+But what I want to think about today is what we will take forward from this era.
+
+The time we spend with our children -- to even know that our children drive us crazy. 
+French Onion soup and rediscovering dishes that don't easily come to mind. 
+Trying HITT. Getting a yoga mat.
+Looking out the window.
+Lying for an hour awake in bed. Knowing I have nothing to do.
+These nights I sleep the best -- knowing I have nothing in aprticular to wake up for. 
