@@ -29,7 +29,7 @@ Like many other businesses in Berlin, a number of restaurants or catering busine
 
 **Closed until further notice**
 Check in on some of these once in a while to see if they're starting to deliver or sell vouchers!
-*  [**The Panda Noodle**](https://www.instagram.com/thepandanoodle/) (Closed until further notice)
+*  [The Panda Noodle](https://www.instagram.com/thepandanoodle/) (Closed until further notice)
 *  [Liu Nudelhaus 成都味道面馆](https://www.instagram.com/liuchengduweidao/?hl=en)
 *  [Lecker Song](https://www.facebook.com/leckersong.berlin/)
 *  [Wok Show 北京水饺](https://www.facebook.com/pages/Wok-Show/106861286045075)
@@ -44,7 +44,7 @@ If you're a food business, Sarah Durante & Lauren Lee from Humble Pie Berlin & F
 
 ## Home
 **[Binuyo](www.binuyo.com): Natural, vegan soaps**
-IG: [@Binuyo_Berlin](www.instagram.com/binuyo_berlin)
+- IG: [@Binuyo_Berlin](www.instagram.com/binuyo_berlin)
 
 
 ## Additional Startups & Businesses
