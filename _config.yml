@@ -26,8 +26,10 @@ plainwhite:
       url: "/about"
     - title: Projects
       url: "/projects"
-    - title: Call
-      url: "https://calendly.com/athena-lam"
+    - title: Newsletter
+      url: "https://elsewhere.substack.com"
+    - title: RSS Feed
+      url: "/feed.xml"
 
 
   # generate social links in footer
