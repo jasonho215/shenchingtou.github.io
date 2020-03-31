@@ -36,6 +36,13 @@
               </li>
             </a>
           {%- endif -%}
+          {%- if site.plainwhite.social_links.rss -%}
+            <a href="feed.xml{{ site.plainwhite.social_links.rss }}">
+              <li>
+                <i class="icon-rss-squared"></i>
+              </li>
+            </a>
+          {%- endif -%}
         </ul>
 
         {%- if site.plainwhite.navigation -%}
