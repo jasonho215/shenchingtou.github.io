@@ -19,20 +19,42 @@ If you have someone to add, please contact Athena on [Twitter](http://www.twitte
 
 **Please consider supporting your neighbourhood grocery stores and Asian corner stores.**
 
-Like many other businesses in Berlin, a number of restaurants or catering businesses are offering delivery. Please consider ordering from these places so they can survive and re-open after Covid-19 passes. 
+Like many other businesses in Berlin, a number of restaurants or catering businesses are offering delivery. Please consider ordering from these places so they can survive and re-open after Covid-19 passes. Also check out 
 
-*  [**Chungking Noodles**](https://www.instagram.com/chungkingnoodles/): Sichuan noodles
-*  [**Fräulein Kimchi**](https://www.instagram.com/fraeuleinkimchi/): Korean
-*  [**Mama Shabz**](https://www.instagram.com/mamashabz/): Pakistani home and street food
-*  [**Khaotaan Berlin**](https://www.instagram.com/p/B-Fv5EcnUj9/): Thai 
-*  [**Mayflower 五月花**](https://www.lieferando.de/en/mayflower-1): Chinese
-*  [**Son Kitchen**]*(https://www.facebook.com/sonkitchen/?hc_location=ufi): Korean
+### Pan-Asian
 *  [**Easy Cook Asia**](https://www.facebook.com/easycookasia/?eid=ARDESy2ZiwYwa11EQsXRaE_PQCTWXBb36s90Lis81jVPxVxQojFX9lHj0mG80gAAIGaJ-8xInteN8yeJ&timeline_context_item_type=intro_card_work&timeline_context_item_source=642427799&fref=tag): Prepared ingredients to cook at home 
+*  [**Zoom Fresh**](https://instagram.com/zoom.fresh?igshid=4ch1fkc5ds79): Home cooking packages
+### Chinese
+*  [**Chungking Noodles**](https://www.instagram.com/chungkingnoodles/): Sichuan noodles
+*  [**Mayflower 五月花**](https://www.lieferando.de/en/mayflower-1): Chinese
+### Japanese
+*  [**Hako Prenzlauerberg**](https://instagram.com/hakoramen.pberg?igshid=1by6o0tquibag): Japanese / Ramen
+### Korean 
+*  [**Fräulein Kimchi**](https://www.instagram.com/fraeuleinkimchi/): Korean
+*  [**Son Kitchen**](https://www.facebook.com/sonkitchen/?hc_location=ufi)
+### Southeast Asian: Thai, Vietnamese, Malaysian, Singaporean
+*  [**Khaotaan Berlin**](https://www.instagram.com/p/B-Fv5EcnUj9/): Thai 
+*  [**Ma-Makan**](https://instagram.com/mamakanberlin?igshid=63luwcbt93kk): Singaporean & Malaysian
+*  [**Khwan**](www.khwanberlin.com/order-online): Regional Thai
+### South Asian: South / North Indian, Pakistani, Sri Lankan
+*  [**Mama Shabz**](https://www.instagram.com/mamashabz/): Pakistani home and street food
+*  [**Moksa**](https://www.instagram.com/moksa.kitchen/): Nontraditional Indian (self-styled)
+*  
 
 
-**Closed until further notice**
+
+## Closed (or not sure)
 Check in on some of these once in a while to see if they're starting to deliver or sell vouchers!
-*  [The Panda Noodle](https://www.instagram.com/thepandanoodle/) (Closed until further notice)
+
+There's an endless list of restaurants and many that are not online (yet). If someone wants to volunteer to set up a form / open spreadsheet, I can more easily compile this list. :-) 
+
+* [Taiyaki Berlin](https://www.instagram.com/taiyakiberlin/?igshid=cpfw6oujrj3c): Beloved Japanese street snack re-interpretted
+* [Nanohana](https://www.instagram.com/nanohana.berlin/): Japanese bistro
+* [Chotto](https://www.instagram.com/chottoberlin/): Japanese bistro
+* [Made in China](https://www.instagram.com/madeinchina.berlin/?igshid=11gjqpxo04v8l): Their head chef returned to China. :-( Check for updates.
+* [Long Men's Noodles 龍門牛肉麵大王 台灣風味](https://www.instagram.com/lonmensnoodlehouse/?igshid=uzqy57t4ioj4)
+* [Dan's Dim Sum](https://www.facebook.com/dansdimsumberlin/)
+*  [The Panda Noodle](https://www.instagram.com/thepandanoodle/) 
 *  [Liu Nudelhaus 成都味道面馆](https://www.instagram.com/liuchengduweidao/?hl=en)
 *  [Lecker Song](https://www.facebook.com/leckersong.berlin/)
 *  [Wok Show 北京水饺](https://www.facebook.com/pages/Wok-Show/106861286045075)
@@ -81,6 +103,3 @@ Minchul Lee, Co-founder,  [EasyCook Asia](https://easycookasia.de/)
 *  [Startup Asia Berlin](https://startup-asiaberlin.com/) 
 *  [CityMakers Accelerator Program](https://c-makers.de/entry/citymakers-lab/) 
 *  [EPRIE Program (arts and cultural focus)](https://eprie.net/program/program-2019/) 
-
-
-
