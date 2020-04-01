@@ -2,7 +2,7 @@
 layout: post
 title: March 27 - Friday
 date: 2020-03-24 21:03:36 +0530
-categories: Covid19 diary
+categories: [Covid-19, Diary]
 ---
 
 Got my first [Buy me a coffee](https://buymeacoffee.com/athena) and used it to try out the cafe at my intersection. Picked up bread from a bakery and dropped it off at the homeless dropoff point.

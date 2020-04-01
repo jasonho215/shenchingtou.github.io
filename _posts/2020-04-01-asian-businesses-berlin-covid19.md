@@ -2,7 +2,7 @@
 layout: post
 title: Asian Businesses to Support in Berlin
 date: '2020-04-1 9:03:36 +0530'
-categories: Startups
+categories: [Berlin, Startups]
 ---
 
 Being Asian may be an identity or an experience a based on how we look. Asia spreads from Turkey through the Middle East, over to Japan, and down the Asia Pacific reaching towards Australia. In reality, it is a region that has virtually every shade of skin, and too many languages and dishes to count.

@@ -2,8 +2,7 @@
 layout: post
 title: "An opinionated list of writing apps"
 date: 2020-03-26 21:03:36 +0530
-categories: ContentMarketing
-slug: writing-apps
+categories: [Content marketing, Apps]
 ---
 Beware, if you have not talked to me in person before about writing apps. I wrote a more organised post called "[Tools for Writing and Sharing Online](https://medium.com/piccolo-portfolios/tools-for-writing-and-sharing-online-3c45ffb65ace)" to help friends who were thinking about doing a blog, and had some sense to be hesitant about Wordpress.
 
