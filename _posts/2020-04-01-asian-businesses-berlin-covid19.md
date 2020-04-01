@@ -19,31 +19,34 @@ If you have someone to add, please contact Athena on [Twitter](http://www.twitte
 
 **Please consider supporting your neighbourhood grocery stores and Asian corner stores.**
 
-Like many other businesses in Berlin, a number of restaurants or catering businesses are offering delivery. Please consider ordering from these places so they can survive and re-open after Covid-19 passes. Also check out 
+Like many other businesses in Berlin, a number of restaurants or catering businesses are offering delivery. Please consider ordering from these places so they can survive and re-open after Covid-19 passes. Also check out [Berlin Asian Food](https://www.instagram.com/berlinasianfood/) for inspiration.
 
 ### Pan-Asian
 *  [**Easy Cook Asia**](https://www.facebook.com/easycookasia/?eid=ARDESy2ZiwYwa11EQsXRaE_PQCTWXBb36s90Lis81jVPxVxQojFX9lHj0mG80gAAIGaJ-8xInteN8yeJ&timeline_context_item_type=intro_card_work&timeline_context_item_source=642427799&fref=tag): Prepared ingredients to cook at home 
 *  [**Zoom Fresh**](https://instagram.com/zoom.fresh?igshid=4ch1fkc5ds79): Home cooking packages
+
 ### Chinese
 *  [**Chungking Noodles**](https://www.instagram.com/chungkingnoodles/): Sichuan noodles
 *  [**Mayflower 五月花**](https://www.lieferando.de/en/mayflower-1): Chinese
+
 ### Japanese
 *  [**Hako Prenzlauerberg**](https://instagram.com/hakoramen.pberg?igshid=1by6o0tquibag): Japanese / Ramen
+
 ### Korean 
 *  [**Fräulein Kimchi**](https://www.instagram.com/fraeuleinkimchi/): Korean
 *  [**Son Kitchen**](https://www.facebook.com/sonkitchen/?hc_location=ufi)
+
 ### Southeast Asian: Thai, Vietnamese, Malaysian, Singaporean
 *  [**Khaotaan Berlin**](https://www.instagram.com/p/B-Fv5EcnUj9/): Thai 
 *  [**Ma-Makan**](https://instagram.com/mamakanberlin?igshid=63luwcbt93kk): Singaporean & Malaysian
 *  [**Khwan**](www.khwanberlin.com/order-online): Regional Thai
-### South Asian: South / North Indian, Pakistani, Sri Lankan
+*  [**Small-batch Kaya from Pinch**](https://www.instagram.com/iampinch/): Singaporean
+
+### South Asian: South / North Indian, Pakistani, Sri Lankan: 
 *  [**Mama Shabz**](https://www.instagram.com/mamashabz/): Pakistani home and street food
 *  [**Moksa**](https://www.instagram.com/moksa.kitchen/): Nontraditional Indian (self-styled)
-*  
 
-
-
-## Closed (or not sure)
+### Closed (or not sure)
 Check in on some of these once in a while to see if they're starting to deliver or sell vouchers!
 
 There's an endless list of restaurants and many that are not online (yet). If someone wants to volunteer to set up a form / open spreadsheet, I can more easily compile this list. :-) 
