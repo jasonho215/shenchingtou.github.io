@@ -5,7 +5,7 @@ date: '2020-04-1 9:03:36 +0530'
 categories: Covid-19
 ---
 
-**Working doc**
+*A working list of resources and solutions I think are effective around the world for Covid19. With a bias for hacking existing tools over building new things.*
 
 Over the past two months, I've been tracking projects on the Coronavirus because I was in Hong Kong when the news broke into the international media in January. Now, there is a proliferation of hackathons and initiatives to address the current pandemic.
 
