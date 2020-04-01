@@ -20,11 +20,14 @@ If you want to add information, you can do so in the following ways:
 **Markdown format**
 
 Open restaurants with a website/Instagram/online order page:
-* [**Name of restaurant/business**](https://includelinkhere.com): Cuisine
+
+`* [**Name of restaurant/business**](https://includelinkhere.com): Cuisine`
 
 Open restaurants with no website
-* **Name of restaurant/business** (+49 000 000 00 00): Cuisine
+
+`* **Name of restaurant/business** (+49 000 000 00 00): Cuisine`
 
 Closed restaurants/Businesses:
-* [Name of restaurant/business](https://includelinkhere.com): Cuisine
+
+` * [Name of restaurant/business](https://includelinkhere.com): Cuisine`
 
