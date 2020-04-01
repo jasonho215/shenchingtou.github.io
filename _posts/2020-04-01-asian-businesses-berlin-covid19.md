@@ -19,7 +19,7 @@ If you have someone to add, please contact Athena on [Twitter](http://www.twitte
 
 **Please consider supporting your neighbourhood grocery stores and Asian corner stores.**
 
-Like many other businesses in Berlin, a number of restaurants or catering businesses are offering delivery. Please consider ordering from these places so they can survive and re-open after Covid-19 passes. Also check out [Berlin Asian Food](https://www.instagram.com/berlinasianfood/) for inspiration.
+Like many other businesses in Berlin, a number of restaurants or catering businesses are offering delivery, takeout, or vouchers. Please consider ordering from these places so they can survive and re-open after Covid-19 passes. Also check out [Berlin Asian Food](https://www.instagram.com/berlinasianfood/) for inspiration.
 
 ### Pan-Asian
 *  [**Easy Cook Asia**](https://www.facebook.com/easycookasia/?eid=ARDESy2ZiwYwa11EQsXRaE_PQCTWXBb36s90Lis81jVPxVxQojFX9lHj0mG80gAAIGaJ-8xInteN8yeJ&timeline_context_item_type=intro_card_work&timeline_context_item_source=642427799&fref=tag): Prepared ingredients to cook at home 
@@ -28,6 +28,7 @@ Like many other businesses in Berlin, a number of restaurants or catering busine
 ### Chinese
 *  [**Chungking Noodles**](https://www.instagram.com/chungkingnoodles/): Sichuan noodles
 *  [**Mayflower 五月花**](https://www.lieferando.de/en/mayflower-1): Chinese
+*  [**CozyMazu**](https://www.facebook.com/Cozymazu/): Taiwanese
 
 ### Japanese
 *  [**Hako Prenzlauerberg**](https://instagram.com/hakoramen.pberg?igshid=1by6o0tquibag): Japanese / Ramen
