@@ -32,6 +32,7 @@ Like many other businesses in Berlin, a number of restaurants or catering busine
 ### Japanese
 *  [**Hako Prenzlauerberg**](https://instagram.com/hakoramen.pberg?igshid=1by6o0tquibag): Japanese / Ramen
 * [**Gohantokyotogo**](https://www.facebook.com/Gohantokyotogo-112327130216208/?hc_location=ufi): Bistro/TakeGohantokyotogoout
+* [**Café Komine**](https://www.facebook.com/cafekomine/?hc_location=ufi): Japanese pastries and sweets 
 
 ### Korean 
 *  [**Fräulein Kimchi**](https://www.instagram.com/fraeuleinkimchi/): Korean
