@@ -7,6 +7,11 @@ This is an experimental blog. I also dump lists I create here.
 This is built with the Jeykyll Plainwhite theme
 Repo: https://github.com/thelehhman/plainwhite-jekyll
 
+**Features**
+- Everything in the [Plainwhite theme](https://github.com/thelehhman/plainwhite-jekyll)
+- Search
+- Metatags for SEO
+
 ## Helping out
 
 Bug reports and fixes are welcome on GitHub at https://github.com/shenchingtou/shenchingtou.github.io. Contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
