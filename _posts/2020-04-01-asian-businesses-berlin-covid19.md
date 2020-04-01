@@ -96,6 +96,10 @@ When Covid-19 is over, I will re-organise the list again into online and offline
 ## Creatives
 I'd like to build out a list of Asian freelancers and artists. If you know of any, please let me know! 
 
+* [Stephanie Mazagg](https://www.mazagg.com/) | [Comics](https://www.instagram.com/steph_anima/) | [Illustrations](https://www.instagram.com/stephanie_mazagg/)
+* [Hong Le](https://hongle.de) | [Instagram](https://www.instagram.com/pummelkuh/)
+* [Rice and Shine Podcast](https://www.instagram.com/riceandshine.podcast/)
+
 
 Below are two zines outside of Germany that might be nice to read through:
 * [Bitter Melon Covid Diary](https://www.instagram.com/p/B94hfaSJZp9/?igshid=1mn6jpu5ygrhc)
