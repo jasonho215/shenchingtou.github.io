@@ -31,6 +31,7 @@ Like many other businesses in Berlin, a number of restaurants or catering busine
 
 ### Japanese
 *  [**Hako Prenzlauerberg**](https://instagram.com/hakoramen.pberg?igshid=1by6o0tquibag): Japanese / Ramen
+* [**Gohantokyotogo**](https://www.facebook.com/Gohantokyotogo-112327130216208/?hc_location=ufi): Bistro/TakeGohantokyotogoout
 
 ### Korean 
 *  [**Fräulein Kimchi**](https://www.instagram.com/fraeuleinkimchi/): Korean
@@ -51,6 +52,7 @@ Check in on some of these once in a while to see if they're starting to deliver 
 
 There's an endless list of restaurants and many that are not online (yet). If someone wants to volunteer to set up a form / open spreadsheet, I can more easily compile this list. :-) 
 
+* [Momiji Taiyaki](https://www.facebook.com/momijiberlin/?hc_location=ufi): Japanese snacks
 * [Taiyaki Berlin](https://www.instagram.com/taiyakiberlin/?igshid=cpfw6oujrj3c): Beloved Japanese street snack re-interpretted
 * [Nanohana](https://www.instagram.com/nanohana.berlin/): Japanese bistro
 * [Chotto](https://www.instagram.com/chottoberlin/): Japanese bistro
