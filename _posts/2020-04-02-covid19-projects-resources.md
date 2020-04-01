@@ -11,7 +11,7 @@ Over the past two months, I've been tracking projects on the Coronavirus because
 
 The reality is that there is no use for more. There is instead a dire need for more organised knowledge and resource sharing. I'm compiling a working list of projects and initiatives that I find are useful in one way or another. I also will try to include directories, so that people can discover more solutions that I may not have covered due to differences in interests.
 
-## Projects
+## Project Directories
 
 Here are some places to start:
 
@@ -26,28 +26,51 @@ This is the prototype directory that I think could work as a model for other pla
 [**All the #WirVsVirus Projects:**](https://docs.google.com/spreadsheets/d/1GlTjh-t25cLlh8A5t3EO-sJXuopzAEFXR4v6CiYeMpg/edit?usp=sharing)
 This is a megalist of projects from the 42,000 participant hackathon. Will fish out the English translation
 
-### Problem verticals
-
 I will also start assembling a list of common problem verticals. My thesis is that most of them do not require a hackathon to solve. Many of problems can be solved through a mixture of existing products and behavioural changes. Some do require technology. Some require policy changes.
 
 For now, this is a random list:
 - https://hackerfarm.jp/2020/03/nukebox/
 
 
-## Existing Covid-19 Tools
+## Existing Covid-19 Tools & Problem Verticals
+
 <center><a href="https://covid19.health/"><img src="/assets/blog/2020-03/AppleCovid19screeningtool.png" alt="Covid19 Data Viz Map" height="250"></a></center>
 
-Information: [**WHO Whatsapp App**](https://www.who.int/news-room/feature-stories/detail/who-health-alert-brings-covid-19-facts-to-billions-via-whatsapp)
+### Information: 
+[**WHO Whatsapp App**](https://www.who.int/news-room/feature-stories/detail/who-health-alert-brings-covid-19-facts-to-billions-via-whatsapp)
 - [Arabic: Send "مرحبا"  to +41 22 501 70 23 on WhatsApp](https://wa.me/41225017023?text=مرحبا)
 - [French: Send "salut" to +41 22 501 72 98 on WhatsApp](wa.me/41225017298?text=salut)
 - [Spanish: Send "hola" to +41 22 501 76 90 on WhatsApp](wa.me/41225017690?text=hola)
 - [English: Send "hi" to +41 79 893 18 92 on WhatsApp](wa.me/41798931892?text=hi)
 
-Screening: [**Covid-19 Screening Tool by Apple**](https://www.apple.com/covid19)
+### Screening: 
+[**Covid-19 Screening Tool by Apple**](https://www.apple.com/covid19)
 
-Community: **Look for Facebook, Whatsapp, and Telegram Channels / Groups**
+### Supporting your neighbourhoods:
+**Look for Facebook, Whatsapp, and Telegram Channels / Groups**
 
 This is an example [Telegram group for Berlin](https://t.me/joinchat/Kqtla1CfK_0BlAGeFysrzQ). Click on the pinned notice and scroll to the English section of the message. There are a bunch of neighbourhood groups as well.
+
+### Supporting people in general:
+Communities and individuals could do with a lot of help (especially if you have time to be bored). A list includes:
+- Homeless people
+- Migrants & refugees
+- LGBTQ communities
+- People with chronic health conditions 
+- Elderly
+
+Not knowing these people is a good reason to start helping. 
+
+In Berlin, neighbourhoods have setup drop off stations for food packages to homeless people. People donate to volunteers (often individuals) who then purchase the goods and package the items (not only food, but necessities like sanitary pads). You can initiate it by offering on Instagram (and giving a Paypal account for people to donate). You can also be transparent by taking photos of the receipts when you make purchases with donations.
+
+In London, the [Bi Pandas](https://www.londonbipandas.com/covid19-fund?fbclid=IwAR3D5hBsEZ3G7vDTo-YCPDxHLp7o_pjzVK5YghUWTOnNCb9tYey_YYDs3Jc) have created a Covid-19 fund.
+
+I'll continue to add to this list when I have time.
+
+### Supporting the healthcare industry:
+What the healthcare industry desperately needs is people to stay home, to educate themselves, and to learn about basic hygiene and virus transmissions.
+
+What could hospitals and frontline workers do with aside from a lot more sleep? Firstly, they could do with protective gear -- to medical standards. In Hong Kong, people donated surgical masks to hospitals.
 
 [**Siilo**](https://www.siilo.com/)
 
