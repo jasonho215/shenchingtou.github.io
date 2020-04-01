@@ -38,11 +38,15 @@ Like many other businesses in Berlin, a number of restaurants or catering busine
 *  [**Fräulein Kimchi**](https://www.instagram.com/fraeuleinkimchi/): Korean
 *  [**Son Kitchen**](https://www.facebook.com/sonkitchen/?hc_location=ufi)
 
-### Southeast Asian: Thai, Vietnamese, Malaysian, Singaporean
+### Southeast Asian: Thai, Vietnamese, Malaysian, Singaporean, Filipino
 *  [**Khaotaan Berlin**](https://www.instagram.com/p/B-Fv5EcnUj9/): Thai 
 *  [**Ma-Makan**](https://instagram.com/mamakanberlin?igshid=63luwcbt93kk): Singaporean & Malaysian
 *  [**Khwan**](www.khwanberlin.com/order-online): Regional Thai
 *  [**Small-batch Kaya from Pinch**](https://www.instagram.com/iampinch/): Singaporean
+*  [**Ayan**](https://www.ayan-berlin.de/): Filipino
+*  [**Pinoy**](http://www.pinoyberlin.de/): Filipino
+
+
 
 ### South Asian: South / North Indian, Pakistani, Sri Lankan: 
 *  [**Mama Shabz**](https://www.instagram.com/mamashabz/): Pakistani home and street food
