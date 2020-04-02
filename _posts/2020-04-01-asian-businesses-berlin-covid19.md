@@ -29,6 +29,8 @@ Like many other businesses in Berlin, a number of restaurants or catering busine
 *  [**Chungking Noodles**](https://www.instagram.com/chungkingnoodles/): Sichuan noodles
 *  [**Mayflower 五月花**](https://www.lieferando.de/en/mayflower-1): General
 *  [**CozyMazu**](https://www.facebook.com/Cozymazu/): Taiwanese
+*  [**Dosha Teehaus**](https://www.facebook.com/2495913460479004/app/701720909911837): Taiwanese
+
 
 ### Japanese
 *  [**Hako Prenzlauerberg**](https://instagram.com/hakoramen.pberg?igshid=1by6o0tquibag): Ramen
