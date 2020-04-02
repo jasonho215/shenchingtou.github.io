@@ -11,7 +11,7 @@ Over the past two months, I've been tracking projects on the Coronavirus because
 
 The reality is that there is no use for more. There is instead a dire need for more organised knowledge and resource sharing. I'm compiling a working list of projects and initiatives that I find are useful in one way or another. I also will try to include directories, so that people can discover more solutions that I may not have covered due to differences in interests.
 
-## Project Directories
+## Project directories
 
 Here are some places to start:
 
@@ -32,7 +32,7 @@ For now, this is a random list:
 - https://hackerfarm.jp/2020/03/nukebox/
 
 
-## Existing Covid-19 Tools & Problem Verticals
+## Existing Covid-19 tools & problem verticals
 
 <center><a href="https://covid19.health/"><img src="/assets/blog/2020-03/AppleCovid19screeningtool.png" alt="Covid19 Data Viz Map" height="250"></a></center>
 
@@ -76,7 +76,7 @@ What could hospitals and frontline workers do with aside from a lot more sleep? 
 
 A free secure messaging app for medical teams (so medics don't have to rely on whatsapp). I highly recommend you share this with every one of your friends in the medical field right now.
 
-#Dashboards, Maps & Trackers
+#Dashboards, maps & trackers
 
 <center><a href="https://covid19.health/"><img src="/assets/blog/2020-03/covid19webapp.png" alt="Covid19 Data Viz Map" height="250"></a></center>
 
