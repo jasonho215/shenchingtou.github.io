@@ -27,12 +27,12 @@ Like many other businesses in Berlin, a number of restaurants or catering busine
 
 ### Chinese
 *  [**Chungking Noodles**](https://www.instagram.com/chungkingnoodles/): Sichuan noodles
-*  [**Mayflower 五月花**](https://www.lieferando.de/en/mayflower-1): Chinese
+*  [**Mayflower 五月花**](https://www.lieferando.de/en/mayflower-1): General
 *  [**CozyMazu**](https://www.facebook.com/Cozymazu/): Taiwanese
 
 ### Japanese
-*  [**Hako Prenzlauerberg**](https://instagram.com/hakoramen.pberg?igshid=1by6o0tquibag): Japanese / Ramen
-* [**Gohantokyotogo**](https://www.facebook.com/Gohantokyotogo-112327130216208/?hc_location=ufi): Bistro/TakeGohantokyotogoout
+*  [**Hako Prenzlauerberg**](https://instagram.com/hakoramen.pberg?igshid=1by6o0tquibag): Ramen
+* [**Gohantokyotogo**](https://www.facebook.com/Gohantokyotogo-112327130216208/?hc_location=ufi): Bistro
 * [**Café Komine**](https://www.facebook.com/cafekomine/?hc_location=ufi): Japanese pastries and sweets 
 
 ### Korean 
@@ -83,7 +83,7 @@ If you're a food business, Sarah Durante & Lauren Lee from Humble Pie Berlin & F
 - IG: [@Binuyo_Berlin](www.instagram.com/binuyo_berlin)
 
 
-## Additional Startups & Businesses
+## Additional startups & businesses
 When Covid-19 is over, I will re-organise the list again into online and offline companies. For now, I am leaving companies that are not serving F&B in this section as many place are closed.
 
 *  [Twindly](https://www.twindly.com/) 
@@ -101,7 +101,7 @@ Below are two zines outside of Germany that might be nice to read through:
 * [Bitter Melon Covid Diary](https://www.instagram.com/p/B94hfaSJZp9/?igshid=1mn6jpu5ygrhc)
 * [Recipes for Resistance by Migrants Zine Collective](https://www.instagram.com/p/B-JMcZQpHqC/)
 
-## Business Support Networks
+## Business support networks
 If you are an Asian business owner, please request access to the [Asian Founders Dinner Berlin](https://www.facebook.com/groups/424193485137898/) Facebook group.
 
 To build a community network and support system, the Asian Founders Dinner began in 2018 by co-hosts:
