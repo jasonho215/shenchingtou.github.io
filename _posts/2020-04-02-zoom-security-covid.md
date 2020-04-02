@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Think Twice before Using Zoom  
+title: Things to Know When Using Zoom for Video Calls
 date: '2020-04-2 9:03:36 +0530'
 categories: [Tech, Cybersecurity]
 ---
