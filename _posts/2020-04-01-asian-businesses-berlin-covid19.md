@@ -2,7 +2,7 @@
 layout: post
 title: Asian Businesses to Support in Berlin
 date: '2020-04-1 9:03:36 +0530'
-categories: Startups
+categories: [Berlin, Startups]
 ---
 
 Being Asian may be an identity or an experience a based on how we look. Asia spreads from Turkey through the Middle East, over to Japan, and down the Asia Pacific reaching towards Australia. In reality, it is a region that has virtually every shade of skin, and too many languages and dishes to count.
@@ -19,7 +19,7 @@ If you have someone to add, please contact Athena on [Twitter](http://www.twitte
 
 **Please consider supporting your neighbourhood grocery stores and Asian corner stores.**
 
-Like many other businesses in Berlin, a number of restaurants or catering businesses are offering delivery. Please consider ordering from these places so they can survive and re-open after Covid-19 passes. Also check out [Berlin Asian Food](https://www.instagram.com/berlinasianfood/) for inspiration.
+Like many other businesses in Berlin, a number of restaurants or catering businesses are offering delivery, takeout, or vouchers. Please consider ordering from these places so they can survive and re-open after Covid-19 passes. Also check out [Berlin Asian Food](https://www.instagram.com/berlinasianfood/) for inspiration.
 
 ### Pan-Asian
 *  [**Easy Cook Asia**](https://www.facebook.com/easycookasia/?eid=ARDESy2ZiwYwa11EQsXRaE_PQCTWXBb36s90Lis81jVPxVxQojFX9lHj0mG80gAAIGaJ-8xInteN8yeJ&timeline_context_item_type=intro_card_work&timeline_context_item_source=642427799&fref=tag): Prepared ingredients to cook at home 
@@ -28,6 +28,7 @@ Like many other businesses in Berlin, a number of restaurants or catering busine
 ### Chinese
 *  [**Chungking Noodles**](https://www.instagram.com/chungkingnoodles/): Sichuan noodles
 *  [**Mayflower 五月花**](https://www.lieferando.de/en/mayflower-1): Chinese
+*  [**CozyMazu**](https://www.facebook.com/Cozymazu/): Taiwanese
 
 ### Japanese
 *  [**Hako Prenzlauerberg**](https://instagram.com/hakoramen.pberg?igshid=1by6o0tquibag): Japanese / Ramen
@@ -38,11 +39,15 @@ Like many other businesses in Berlin, a number of restaurants or catering busine
 *  [**Fräulein Kimchi**](https://www.instagram.com/fraeuleinkimchi/): Korean
 *  [**Son Kitchen**](https://www.facebook.com/sonkitchen/?hc_location=ufi)
 
-### Southeast Asian: Thai, Vietnamese, Malaysian, Singaporean
+### Southeast Asian: Thai, Vietnamese, Malaysian, Singaporean, Filipino
 *  [**Khaotaan Berlin**](https://www.instagram.com/p/B-Fv5EcnUj9/): Thai 
 *  [**Ma-Makan**](https://instagram.com/mamakanberlin?igshid=63luwcbt93kk): Singaporean & Malaysian
 *  [**Khwan**](www.khwanberlin.com/order-online): Regional Thai
 *  [**Small-batch Kaya from Pinch**](https://www.instagram.com/iampinch/): Singaporean
+*  [**Ayan**](https://www.ayan-berlin.de/): Filipino
+*  [**Pinoy**](http://www.pinoyberlin.de/): Filipino
+
+
 
 ### South Asian: South / North Indian, Pakistani, Sri Lankan: 
 *  [**Mama Shabz**](https://www.instagram.com/mamashabz/): Pakistani home and street food

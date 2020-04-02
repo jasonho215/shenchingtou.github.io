@@ -15,6 +15,7 @@ plainwhite:
   tagline: Content Strategist
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
+  analytics_id: "UA-117941752-3"
   navigation:
     - title: Home
       url: "/index"
@@ -42,7 +43,6 @@ plainwhite:
     # facebook: jekyll
     # flickr:   jekyll
     # instagram: jekyll
-    # linkedin: jekyll
     # pinterest: jekyll
     # youtube: jekyll
     # youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
@@ -73,8 +73,7 @@ plugins:
   - jekyll-paginate
 
 include: ['_pages']
-
-paginate: 6
+paginate: 5
 paginate_path: /page:num/
 
 # Exclude these files from your production _site

@@ -2,7 +2,7 @@
 layout: post
 title: WirVsVirus Event Notes
 date: 2020-03-24 21:03:36 +0530
-categories: [Covid19 diary, Events]
+categories: [Covid-19, Events]
 ---
 
 The #WirVsVirus hackathon was reportedly organised in 4 days, and by the time it finished there were over 44,000 registered users on Slack, and officially 1500 projects submitted. Rising out of the tsunami of government announcements, lockdowns, and cancelled flights, the German government and seven organisations rallied to put up a website and make a call out to the whole of Germany. They were successful beyond their wildest imagination, with participants from outside the country's borders joining. 

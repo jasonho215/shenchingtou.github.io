@@ -1,146 +1,38 @@
-# plainwhite
+# About
 
-Simplistic jekyll portfolio-style theme for writers.
+This is an experimental blog. I also dump lists I create here.
 
-**Demo**: [thelehhman.com](https://thelehhman.com)
+# Documentation
 
-![plainwhite theme preview](/screenshot.png)
+This is built with the Jeykyll Plainwhite theme
+Repo: https://github.com/thelehhman/plainwhite-jekyll
 
-## Installation on Github Pages
+**Features**
+- Everything in the [Plainwhite theme](https://github.com/thelehhman/plainwhite-jekyll)
+- Search
+- Metatags for SEO
 
-Add this line to your site's `_config.yml`:
+## Helping out
 
-```yaml
-remote_theme: thelehhman/plainwhite-jekyll
-```
+Bug reports and fixes are welcome on GitHub at https://github.com/shenchingtou/shenchingtou.github.io. Contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
 
-## Installation
+## Adding restaurant submissions to [Businesses to Support in Berlin](https://shenchingtou.github.io/startups/asian-businesses-berlin-covid19.html)
 
-Add this line to your Jekyll site's `Gemfile`:
+If you want to add information, you can do so in the following ways:
+- Message me on Twitter: [@shenchingtou](https://www.twitter.com/@shenchingtou)
+- Create a pull request for the blog post you want to update
 
-```ruby
-gem "plainwhite"
-```
+**Markdown format**
 
-And add this line to your Jekyll site's `_config.yml`:
+Open restaurants with a website/Instagram/online order page:
 
-```yaml
-theme: plainwhite
-```
+`* [**Name of restaurant/business**](https://includelinkhere.com): Cuisine`
 
-And then execute:
+Open restaurants with no website
 
-    $ bundle
+`* **Name of restaurant/business** (+49 000 000 00 00): Cuisine`
 
-Or install it yourself as:
+Closed restaurants/Businesses:
 
-    $ gem install plainwhite
+` * [Name of restaurant/business](https://includelinkhere.com): Cuisine`
 
-## Usage
-
-The "plainwhite" key in \_config.yml is used to customize the theme data.
-
-```yaml
-plainwhite:
-  name: Adam Denisov
-  tagline: Developer. Designer
-  date_format: "%b %-d, %Y"
-
-  social_links:
-    twitter: thelehhman
-    github: thelehhman
-    linkedIn: in/thelehhman # format: locale/username
-```
-
-**Updating Placeholder Image**
-
-The placeholder portfolio image can be replaced by the desired image by placing it as `assets/portfolio.png` in your jekyll website.
-
-**Comments (Disqus)**
-
-Comments on posts can be enabled by specifying your disqus_shortname under plainwhite in `_config.yml`. For example,
-
-```yaml
-plainwhite:
-  disqus_shortname: games
-```
-
-**Google Analytics**
-
-It can be enabled by specifying your analytics id under plainwhite in `_config.yml`
-
-```yaml
-plainwhite:
-  analytics_id: "< YOUR ID >"
-```
-
-**Sitemap**
-
-It can be toggled by the following line to under plainwhite in `_config.yml`
-
-```yaml
-plainwhite:
-  sitemap: true
-```
-
-**Excerpts**
-
-Excerpts can be enabled by adding the following line to your `_config.yml`
-
-```yaml
-show_excerpts: true
-```
-
-**Layouts**
-
-- Home
-- Page
-- Post
-
-**Navigation**
-
-Navigation can be enabled by adding the following line to your `_config.yml`
-
-```yaml
-plainwhite:
-  navigation:
-    - title: My Work
-      url: "/my-work"
-    - title: Resume
-      url: "/resume"
-```
-
-**Multiline tagline**
-
-Tagline can be multiline in this way
-
-```yaml
-plainwhite:
-  tagline: |
-  First Line. 
-
-  Second Line. 
-
-  Third Line.
-```
-
-## Contributing
-
-Bug reports and pull requests are welcome on GitHub at https://github.com/thelehhman/plainwhite-jekyll. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
-
-## Development
-
-To set up your environment to develop this theme, run `bundle install`.
-
-Your theme is setup just like a normal Jekyll site! To test your theme, run `bundle exec jekyll serve` and open your browser at `http://localhost:4000`. This starts a Jekyll server using your theme. Add pages, documents, data, etc. like normal to test your theme's contents. As you make modifications to your theme and to your content, your site will regenerate and you should see the changes in the browser after a refresh, just like normal.
-
-When your theme is released, only the files in `_layouts`, `_includes`, `_sass` and `assets` tracked with Git will be bundled.
-To add a custom directory to your theme-gem, please edit the regexp in `plainwhite.gemspec` accordingly.
-
-## License
-
-The theme is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
-
-## More themes
-
-- [Texture](https://github.com/thelehhman/texture)
