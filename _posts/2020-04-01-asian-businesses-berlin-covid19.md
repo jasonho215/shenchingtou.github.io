@@ -71,6 +71,7 @@ There's an endless list of restaurants and many that are not online (yet). If so
 *  [Lecker Song](https://www.facebook.com/leckersong.berlin/)
 *  [Wok Show 北京水饺](https://www.facebook.com/pages/Wok-Show/106861286045075)
 * [Kong Berlin](https://www.facebook.com/kong.berlin/?ref=py_c&eid=ARB5WemTYFey3JPQIgcEtSloqjO6FX0WLSfv-F21yq3MWnUimyPADZz8Xa32VWP_BMKMYA1u5gLfYr0O)
+* [Grand Tang Xi Yu](https://www.facebook.com/pages/Grand-Tang-Xi-Yu/337308490124662): Shaanxi diner
 
 
 *  [Kitchen Stories](https://www.kitchenstories.com/en) 
