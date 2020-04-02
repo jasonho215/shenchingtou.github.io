@@ -47,11 +47,11 @@ Like many other businesses in Berlin, a number of restaurants or catering busine
 *  [**Ayan**](https://www.ayan-berlin.de/): Filipino
 *  [**Pinoy**](http://www.pinoyberlin.de/): Filipino
 
-
-
 ### South Asian: South / North Indian, Pakistani, Sri Lankan: 
 *  [**Mama Shabz**](https://www.instagram.com/mamashabz/): Pakistani home and street food
 *  [**Moksa**](https://www.instagram.com/moksa.kitchen/): Nontraditional Indian (self-styled)
+*  [**Lion Superfoods**](https://www.facebook.com/Lion-Superfoods-385239848966886/?hc_location=ufi): Natural South Asian dried snacks direct from farmers in Sri Lanka
+
 
 ### Closed (or not sure)
 Check in on some of these once in a while to see if they're starting to deliver or sell vouchers!
@@ -70,17 +70,20 @@ There's an endless list of restaurants and many that are not online (yet). If so
 *  [Lecker Song](https://www.facebook.com/leckersong.berlin/)
 *  [Wok Show 北京水饺](https://www.facebook.com/pages/Wok-Show/106861286045075)
 * [Kong Berlin](https://www.facebook.com/kong.berlin/?ref=py_c&eid=ARB5WemTYFey3JPQIgcEtSloqjO6FX0WLSfv-F21yq3MWnUimyPADZz8Xa32VWP_BMKMYA1u5gLfYr0O)
-
-
 *  [Kitchen Stories](https://www.kitchenstories.com/en) 
 *  [Hilo Donuts](https://hilodonuts.de/) 
-*  [Lion Superfoods](https://www.facebook.com/Lion-Superfoods-385239848966886/?hc_location=ufi): Natural South Asian snacks direct from farmers
 
 If you're a food business, Sarah Durante & Lauren Lee from Humble Pie Berlin & Fräulein Kimchi respectively shared how they dived into deliveries in 4 days on **[Feminist Food Collective's](https://feministfoodclub.com) "Corona Crisis Talks"**.
 
 ## Home
-**[Binuyo](www.binuyo.com): Natural, vegan soaps**
+[**Binuyo**](www.binuyo.com): Natural, vegan soaps
 - IG: [@Binuyo_Berlin](www.instagram.com/binuyo_berlin)
+
+## Creatives
+I'd like to build out a list of Asian freelancers and artists. If you know of any, please let me know! 
+
+* [**Zi Gattina**](https://www.zigattina.com)
+- IG: [@Zigattina](https://www.instagram.com/zigattina/?fbclid=IwAR0CDf0oSnbKIQgIZ8ujpyEHYadGSDEAjw_Ou4cItnUp5P6X0K9UgE3NijQ)
 
 
 ## Additional startups & businesses
@@ -92,10 +95,6 @@ When Covid-19 is over, I will re-organise the list again into online and offline
 *  [Sprachinstitut Berlin: Deutschkurse & Englischkurse in Berlin-Mitte](https://sprachinstitut-berlin.de/) 
 *  [HardSkills](https://hardskills.com/) 
 *  [Setting.io](https://setting.io/)  – Co-working Space
-
-## Creatives
-I'd like to build out a list of Asian freelancers and artists. If you know of any, please let me know! 
-
 
 Below are two zines outside of Germany that might be nice to read through:
 * [Bitter Melon Covid Diary](https://www.instagram.com/p/B94hfaSJZp9/?igshid=1mn6jpu5ygrhc)
