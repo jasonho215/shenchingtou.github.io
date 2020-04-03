@@ -30,6 +30,7 @@ Like many other businesses in Berlin, a number of restaurants or catering busine
 *  [**Mayflower 五月花**](https://www.lieferando.de/en/mayflower-1): General
 *  [**CozyMazu**](https://www.facebook.com/Cozymazu/): Taiwanese
 *  [**Shan Shan**](http://www.berlinrestaurant-shanshan.de/): Chinese
+*  [**Dosha Teehaus**](https://www.facebook.com/2495913460479004/app/701720909911837): Taiwanese
 
 ### Japanese
 *  [**Hako Prenzlauerberg**](https://instagram.com/hakoramen.pberg?igshid=1by6o0tquibag): Ramen
@@ -70,8 +71,8 @@ There's an endless list of restaurants and many that are not online (yet). If so
 *  [Liu Nudelhaus 成都味道面馆](https://www.instagram.com/liuchengduweidao/?hl=en)
 *  [Lecker Song](https://www.facebook.com/leckersong.berlin/)
 *  [Wok Show 北京水饺](https://www.facebook.com/pages/Wok-Show/106861286045075)
-* [Kong Berlin](https://www.facebook.com/kong.berlin/?ref=py_c&eid=ARB5WemTYFey3JPQIgcEtSloqjO6FX0WLSfv-F21yq3MWnUimyPADZz8Xa32VWP_BMKMYA1u5gLfYr0O)
-* [Grand Tang Xi Yu](https://www.facebook.com/pages/Grand-Tang-Xi-Yu/337308490124662): Shaanxi diner
+*  [Kong Berlin](https://www.facebook.com/kong.berlin/?ref=py_c&eid=ARB5WemTYFey3JPQIgcEtSloqjO6FX0WLSfv-F21yq3MWnUimyPADZz8Xa32VWP_BMKMYA1u5gLfYr0O)
+*  [Grand Tang Xi Yu](https://www.facebook.com/pages/Grand-Tang-Xi-Yu/337308490124662): Shaanxi diner
 *  [Kitchen Stories](https://www.kitchenstories.com/en) 
 *  [Hilo Donuts](https://hilodonuts.de/) 
 
