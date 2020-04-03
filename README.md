@@ -16,7 +16,7 @@ Repo: https://github.com/thelehhman/plainwhite-jekyll
 
 Bug reports and fixes are welcome on GitHub at https://github.com/shenchingtou/shenchingtou.github.io. Contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
 
-## Adding restaurant submissions to [Businesses to Support in Berlin](https://shenchingtou.github.io/startups/asian-businesses-berlin-covid19.html)
+## Adding restaurant submissions to [Asian Businesses to Support in Berlin](https://shenchingtou.github.io/startups/asian-businesses-berlin-covid19.html)
 
 If you want to add information, you can do so in the following ways:
 - Message me on Twitter: [@shenchingtou](https://www.twitter.com/@shenchingtou)
