@@ -20,7 +20,7 @@ Bug reports and fixes are welcome on GitHub at https://github.com/shenchingtou/s
 
 If you want to add information, you can do so in the following ways:
 - Message me on Twitter: [@shenchingtou](https://www.twitter.com/@shenchingtou)
-- Create a pull request for the blog post you want to update
+- Create a pull request to the [Asian Businesses to Support in Berlin post](https://github.com/shenchingtou/shenchingtou.github.io/blob/master/_posts/2020-04-01-asian-businesses-berlin-covid19.md) or another post
 
 **Markdown format**
 
