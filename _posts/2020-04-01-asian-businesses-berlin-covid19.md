@@ -27,13 +27,13 @@ Like many other businesses in Berlin, a number of restaurants or catering busine
 
 ### Chinese
 *  [**Chungking Noodles**](https://www.instagram.com/chungkingnoodles/): Sichuan noodles
-*  [**Mayflower 五月花**](https://www.lieferando.de/en/mayflower-1): Chinese
+*  [**Mayflower 五月花**](https://www.lieferando.de/en/mayflower-1): General
 *  [**CozyMazu**](https://www.facebook.com/Cozymazu/): Taiwanese
 *  [**Shan Shan**](http://www.berlinrestaurant-shanshan.de/): Chinese
 
 ### Japanese
-*  [**Hako Prenzlauerberg**](https://instagram.com/hakoramen.pberg?igshid=1by6o0tquibag): Japanese / Ramen
-* [**Gohantokyotogo**](https://www.facebook.com/Gohantokyotogo-112327130216208/?hc_location=ufi): Bistro/TakeGohantokyotogoout
+*  [**Hako Prenzlauerberg**](https://instagram.com/hakoramen.pberg?igshid=1by6o0tquibag): Ramen
+* [**Gohantokyotogo**](https://www.facebook.com/Gohantokyotogo-112327130216208/?hc_location=ufi): Bistro
 * [**Café Komine**](https://www.facebook.com/cafekomine/?hc_location=ufi): Japanese pastries and sweets 
 
 ### Korean 
@@ -48,11 +48,11 @@ Like many other businesses in Berlin, a number of restaurants or catering busine
 *  [**Ayan**](https://www.ayan-berlin.de/): Filipino
 *  [**Pinoy**](http://www.pinoyberlin.de/): Filipino
 
-
-
 ### South Asian: South / North Indian, Pakistani, Sri Lankan: 
 *  [**Mama Shabz**](https://www.instagram.com/mamashabz/): Pakistani home and street food
 *  [**Moksa**](https://www.instagram.com/moksa.kitchen/): Nontraditional Indian (self-styled)
+*  [**Lion Superfoods**](https://www.facebook.com/Lion-Superfoods-385239848966886/?hc_location=ufi): Natural South Asian dried snacks direct from farmers in Sri Lanka
+
 
 ### Closed (or not sure)
 Check in on some of these once in a while to see if they're starting to deliver or sell vouchers!
@@ -72,20 +72,23 @@ There's an endless list of restaurants and many that are not online (yet). If so
 *  [Wok Show 北京水饺](https://www.facebook.com/pages/Wok-Show/106861286045075)
 * [Kong Berlin](https://www.facebook.com/kong.berlin/?ref=py_c&eid=ARB5WemTYFey3JPQIgcEtSloqjO6FX0WLSfv-F21yq3MWnUimyPADZz8Xa32VWP_BMKMYA1u5gLfYr0O)
 * [Grand Tang Xi Yu](https://www.facebook.com/pages/Grand-Tang-Xi-Yu/337308490124662): Shaanxi diner
-
-
 *  [Kitchen Stories](https://www.kitchenstories.com/en) 
 *  [Hilo Donuts](https://hilodonuts.de/) 
-*  [Lion Superfoods](https://www.facebook.com/Lion-Superfoods-385239848966886/?hc_location=ufi): Natural South Asian snacks direct from farmers
 
 If you're a food business, Sarah Durante & Lauren Lee from Humble Pie Berlin & Fräulein Kimchi respectively shared how they dived into deliveries in 4 days on **[Feminist Food Collective's](https://feministfoodclub.com) "Corona Crisis Talks"**.
 
 ## Home
-**[Binuyo](www.binuyo.com): Natural, vegan soaps**
+[**Binuyo**](www.binuyo.com): Natural, vegan soaps
 - IG: [@Binuyo_Berlin](www.instagram.com/binuyo_berlin)
 
+## Creatives
+I'd like to build out a list of Asian freelancers and artists. If you know of any, please let me know! 
 
-## Additional Startups & Businesses
+* [**Zi Gattina**](https://www.zigattina.com)
+- IG: [@Zigattina](https://www.instagram.com/zigattina/?fbclid=IwAR0CDf0oSnbKIQgIZ8ujpyEHYadGSDEAjw_Ou4cItnUp5P6X0K9UgE3NijQ)
+
+
+## Additional startups & businesses
 When Covid-19 is over, I will re-organise the list again into online and offline companies. For now, I am leaving companies that are not serving F&B in this section as many place are closed.
 
 *  [Twindly](https://www.twindly.com/) 
@@ -95,15 +98,11 @@ When Covid-19 is over, I will re-organise the list again into online and offline
 *  [HardSkills](https://hardskills.com/) 
 *  [Setting.io](https://setting.io/)  – Co-working Space
 
-## Creatives
-I'd like to build out a list of Asian freelancers and artists. If you know of any, please let me know! 
-
-
 Below are two zines outside of Germany that might be nice to read through:
 * [Bitter Melon Covid Diary](https://www.instagram.com/p/B94hfaSJZp9/?igshid=1mn6jpu5ygrhc)
 * [Recipes for Resistance by Migrants Zine Collective](https://www.instagram.com/p/B-JMcZQpHqC/)
 
-## Business Support Networks
+## Business support networks
 If you are an Asian business owner, please request access to the [Asian Founders Dinner Berlin](https://www.facebook.com/groups/424193485137898/) Facebook group.
 
 To build a community network and support system, the Asian Founders Dinner began in 2018 by co-hosts:

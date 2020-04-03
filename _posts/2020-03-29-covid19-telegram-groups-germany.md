@@ -72,7 +72,7 @@ Supermarkt-Hygieneschutz: [@Supermarktkontakte](https://web.telegram.org/#/im?p=
 
 ---
 
-## Further Readings
+## Further readings
 **[Secure Messaging Apps](www.securemessagingapps.com):** I suggest scanning the top row of the table to know which apps are actually secure, and the far left column to learn about what security features you should think about. Not all of them, such as making code opensource, are obvious to a consumer.
 - [Messaging app Telegram moves to protect identity of Hong Kong protesters](https://www.reuters.com/article/us-hongkong-telegram-exclusive/exclusive-messaging-app-telegram-moves-to-protect-identity-of-hong-kong-protesters-idUSKCN1VK2NI) by Joel Schectman for Reuters
 - [Dear activists, please stop telling everyone Telegram is secure](https://88-bar.com/2016/08/dear-activists-please-stop-telling-everyone-telegram-is-secure/) by Jason Li and Lokman Tsui
