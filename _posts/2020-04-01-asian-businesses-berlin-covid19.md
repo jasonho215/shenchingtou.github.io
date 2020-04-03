@@ -31,6 +31,8 @@ Like many other businesses in Berlin, a number of restaurants or catering busine
 *  [**CozyMazu**](https://www.facebook.com/Cozymazu/): Taiwanese
 *  [**Shan Shan**](http://www.berlinrestaurant-shanshan.de/): Chinese
 *  [**Dosha Teehaus**](https://www.facebook.com/2495913460479004/app/701720909911837): Taiwanese
+*  [**Bubble Bauch - Tea Art Cafe**](https://bubble-bauch-berlin.eatbu.com/?lang=en): Taiwanese
+*  [**Lao Xiang中餐厅**](http://laoxiang.de/): General
 
 ### Japanese
 *  [**Hako Prenzlauerberg**](https://instagram.com/hakoramen.pberg?igshid=1by6o0tquibag): Ramen
@@ -40,6 +42,8 @@ Like many other businesses in Berlin, a number of restaurants or catering busine
 ### Korean 
 *  [**Fräulein Kimchi**](https://www.instagram.com/fraeuleinkimchi/): Korean
 *  [**Son Kitchen**](https://www.facebook.com/sonkitchen/?hc_location=ufi)
+*  [**Gokan Berlin**](https://www.instagram.com/gokan_berlin/?hl=en)
+*  [**Juki**](http://www.juki.me/)
 
 ### Southeast Asian: Thai, Vietnamese, Malaysian, Singaporean, Filipino
 *  [**Khaotaan Berlin**](https://www.instagram.com/p/B-Fv5EcnUj9/): Thai 
@@ -73,6 +77,7 @@ There's an endless list of restaurants and many that are not online (yet). If so
 *  [Wok Show 北京水饺](https://www.facebook.com/pages/Wok-Show/106861286045075)
 *  [Kong Berlin](https://www.facebook.com/kong.berlin/?ref=py_c&eid=ARB5WemTYFey3JPQIgcEtSloqjO6FX0WLSfv-F21yq3MWnUimyPADZz8Xa32VWP_BMKMYA1u5gLfYr0O)
 *  [Grand Tang Xi Yu](https://www.facebook.com/pages/Grand-Tang-Xi-Yu/337308490124662): Shaanxi diner
+*  [Anh Dao](https://www.google.com/maps/place/Anh+Dao/@52.5402998,13.4171689,17z/data=!4m5!3m4!1s0x0:0x518fd521e9c207ca!8m2!3d52.5397382!4d13.4190702?hl=zh-Hant-DE): Vegetarian Vietnamese
 *  [Kitchen Stories](https://www.kitchenstories.com/en) 
 *  [Hilo Donuts](https://hilodonuts.de/) 
 
