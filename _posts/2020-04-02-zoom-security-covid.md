@@ -60,5 +60,6 @@ While there are no great alternatives yet, you as a user can still take steps to
   - [Zoom Meetings Aren’t End-to-End Encrypted, Despite Misleading Marketing](https://theintercept.com/2020/03/31/zoom-meeting-encryption/)
   - [Zoom Calls Aren't as Private as You May Think. Here's What You Should Know.](https://www.consumerreports.org/video-conferencing-services/zoom-teleconferencing-privacy-concerns/)
   - [Bug Bounty on Medium](https://medium.com/bugbountywriteup/tagged/bug-bounty)
-  
+ - **Always e-mail / message Zoom invitations for events**: to reduce incidences of trolling that have also been reported lately. If you're an event organiser, you can find out past experiences by messaging [Mari on Twitter](https://twitter.com/marielli).
+ 
   The reality is that most of us will still be using Zoom for our calls. From a functional perspective, it delivers beautifully. But when you have time, search for alternatives once in a while or new options they release that might give you more privacy.
