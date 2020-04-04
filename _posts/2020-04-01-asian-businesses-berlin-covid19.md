@@ -87,12 +87,13 @@ If you're a food business, Sarah Durante & Lauren Lee from Humble Pie Berlin & F
 [**Binuyo**](www.binuyo.com): Natural, vegan soaps
 - IG: [@Binuyo_Berlin](www.instagram.com/binuyo_berlin)
 
-## Creatives
+## Creatives & freelancers
 I'd like to build out a list of Asian freelancers and artists. If you know of any, please let me know! 
 
 * [**Zi Gattina**](https://www.zigattina.com)
 - IG: [@Zigattina](https://www.instagram.com/zigattina/?fbclid=IwAR0CDf0oSnbKIQgIZ8ujpyEHYadGSDEAjw_Ou4cItnUp5P6X0K9UgE3NijQ)
-
+* [**Jee Hei Park Illustration & Graphic Design](https://www.jeeheipark.com/)
+- Contact: [e-mail](mailto:Hello.jeeheipark@gmail.com )
 
 ## Additional startups & businesses
 When Covid-19 is over, I will re-organise the list again into online and offline companies. For now, I am leaving companies that are not serving F&B in this section as many place are closed.
