@@ -1,0 +1,10 @@
+version: "3"
+
+services:
+  ci:
+    build:
+      context: .
+      dockerfile: Dockerfile.ci
+    volumes:
+      - ".:/srv/jekyll"
+      - ".ci-cache/:/usr/local/bundle"

@@ -1,0 +1,8 @@
+FROM jekyll/jekyll:4.0.0
+
+# RUN apk add --no-cache python3
+# RUN python3 -m pip install docker-compose \
+RUN apk update && apk add ansible
+
+SHELL ["/bin/sh", "-c"]
+CMD ["/bin/sh"]
