@@ -47,6 +47,8 @@ Like many other businesses in Berlin, a number of restaurants or catering busine
 
 ### Southeast Asian: Thai, Vietnamese, Malaysian, Singaporean, Filipino
 *  [**Khaotaan Berlin**](https://www.instagram.com/p/B-Fv5EcnUj9/): Thai 
+*  [**Li.Ke Thai**](https://www.instagram.com/li.ke.thai.vegan/): Vegan Thai 
+*  [**Kin Dee**](https://kindeeberlin.com/en//): Thai
 *  [**Ma-Makan**](https://instagram.com/mamakanberlin?igshid=63luwcbt93kk): Singaporean & Malaysian
 *  [**Khwan**](www.khwanberlin.com/order-online): Regional Thai
 *  [**Small-batch Kaya from Pinch**](https://www.instagram.com/iampinch/): Singaporean
