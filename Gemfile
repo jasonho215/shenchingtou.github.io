@@ -7,4 +7,3 @@ group :jekyll_plugins do
     gem "jekyll-feed" # Create an Atom feed using the official Jekyll feed gem
     gem "jekyll-paginate"
   end
-# gem "plainwhite"
